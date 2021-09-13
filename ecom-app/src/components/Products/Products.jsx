@@ -4,8 +4,8 @@ import Product  from './Product/product'
 import Number from 'D:/Github/Ecommerce-in-React/ecom-app/src/assets/Number.png'
 
 const products = [
-    {id : '1', name:'Ballons Stand', description: 'This is Ballon Stand' , price: '5$' , image:{Number}},
-    {id : '2', name:'Baloon', description: 'This is Ballon' ,price: '10$' , image:{Number}},
+    {id : '1', name:'Shoes', description: 'This is Ballon Stand' , price: '5$' , image:{Number}},
+    {id : '2', name:'Leptop', description: 'This is Ballon' ,price: '10$' , image:{Number}},
   
  
 ]

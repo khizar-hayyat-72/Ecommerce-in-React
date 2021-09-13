@@ -12,12 +12,11 @@ export default makeStyles(() => ({
     },
     cardContent:{
         display: 'flex',
-        justifyContent: 'flex-end', 
-
+        justifyContent: 'space-between', 
     },
-    CardAction:{
+    CardActions:{
         display: 'flex',
-        justifyContent: 'space-between'
+        justifyContent: 'flex-end'
 
     }
 
