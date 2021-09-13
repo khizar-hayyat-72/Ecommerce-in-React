@@ -1,7 +1,12 @@
-import Home from './components/Home';
+import React from "react";
+import Products from "./components/Products/Products";
 
 function App() {
-  return ( <Home/>)
+  return ( 
+    <React.Fragment>
+      <Products/>
+    </React.Fragment>
+  )
   
 }
 
